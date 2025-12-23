@@ -24,8 +24,10 @@ Kirchhoff’s Voltage Law (KVL) states that, ‘in an electric network, the alge
 CIRCUIT DIAGRAM:
 ![<!-- Uploading "IMG_20251223_082443.jpg"... -->](https://github.com/user-attachments/assets/d43db792-511b-4fea-93cf-e313f4b73d92)
 TABULATION:
+![<!-- Uploading "IMG_20251223_083751.jpg"... -->](https://github.com/user-attachments/assets/d43db792-511b-4fea-93cf-e313f4b73d92)
 
 CALCULATION:
+
 
 PROCEDURE:
 
